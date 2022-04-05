@@ -1,0 +1,25 @@
+h1 {
+  color: mint cream;
+  text-shadow: 1px 1px 1px red,
+               2px 2px 1px red;
+<<<<<<< HEAD
+  style="font-size:10vw
+=======
+               font-size: 60px;
+>>>>>>> e666c120fef1fa9097d549650f8b735857852aae
+}
+h2 {
+  color: yellow;
+}
+p {
+  background-color: white;
+}
+
+body {font-family:Helvetica, sans-serif;
+  background-image: url("the experience experiene.jpg")
+
+}
+h3 {
+  color: red;
+  font-size: 40px;
+}
